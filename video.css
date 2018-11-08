@@ -1,0 +1,6 @@
+body{
+	background:radial-gradient(0 0,blue,red,green);
+	background:-webkit-radial-gradient(0 0,blue,red,green);
+	background:-moz-radial-gradient(0 0,blue,red,green);
+	background:-o-radial-gradient(0 0,blue,red,green);
+}
